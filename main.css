@@ -1,0 +1,48 @@
+ * {
+	background-color: white
+}
+
+
+img {
+	width: 100%;
+	border: 1px solid #FF0066;
+
+}
+
+.octocat {
+  float: left;
+  width: 30%;
+  padding: 15px;
+ 
+}
+
+.image-number {
+	color: gray;
+}
+
+.image-footer {
+	color: orange;
+	float: right;
+}
+
+.image-caption {
+	color: black;
+	float: right;
+}
+
+li {
+	list-style-type: none;
+}
+
+hr {
+	width: 300px;
+	border: 1px solid #FF0066;
+}
+
+span {
+	
+}
+
+a {
+	color: #FF0066;
+}
